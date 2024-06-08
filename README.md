@@ -1,4 +1,7 @@
 # CRUD UTILIZANDO VETORES EM PORTUGOL
-### EXEMPLO SIMPLIFICADO DE UM CRUD
 
+Este projeto simula, de uma maneira simples e objetiva, um sistema de cadastro de pessoas utilizando vetores, funções e a linguagem de programação Portugol.
 
+* Linugagem Portugol
+* Vetores
+* Funções
